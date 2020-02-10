@@ -37,6 +37,10 @@ th {
   border: 2px solid #8c6b48;
 }
 
+tr {
+  border: 2px solid black;
+}
+
 table {
   text-align: center;
   margin: 20px auto;
